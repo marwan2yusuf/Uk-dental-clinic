@@ -1,0 +1,203 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+
+
+.main {
+
+    width: 100%;
+    background: linear-gradient(to top, rgba(6, 141, 244, 0.5)50%, rgba(6, 141, 244, 0.5)50%), url(images/banner1.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+
+.navbar {
+    width: 1200px;
+    height: 75px;
+    margin: auto;
+}
+
+.icon {
+    width: 200px;
+    float: left;
+    height: 70px;
+    position: relative;
+    bottom: 4rem;
+    right: 2rem;
+}
+
+.logo {
+    color: white;
+    font-size: 35px;
+    font-family: Arial;
+    padding-left: 20px;
+    float: left;
+    padding-top: 10px;
+    margin-top: 5px
+}
+
+.menu {
+    width: 400px;
+    float: left;
+    height: 70px;
+    position: relative;
+    left: 30rem;
+}
+
+ul {
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+ul li {
+    list-style: none;
+    margin-left: 62px;
+    margin-top: 27px;
+    font-size: 14px;
+}
+
+ul li a {
+    text-decoration: none;
+    color: #fff;
+    font-family: Arial;
+    font-weight: bold;
+    /* transition: 0.4s ease-in-out; */
+}
+
+ul li a:hover {
+    color: black;
+}
+
+#uk {
+    width: 100px;
+    height: 100px;
+    position: relative;
+    top: 4rem;
+    right: 5rem;
+
+
+}
+
+.qoral {
+    /* float: left; */
+    margin: 8rem 0 0 5rem;
+    color: white;
+    /* position: relative;
+top: 10rem;
+right: 43rem; */
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 35px;
+
+}
+
+button {
+    margin-top: 5rem;
+    background-color: white;
+    padding: 0.5rem 0.5rem;
+    border: 1px;
+    color: black;
+    border-radius: 30px;
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 20px;
+
+}
+
+#log {
+    text-decoration: none;
+    color: dodgerblue;
+    font-family: Arial;
+    font-weight: bold;
+   
+
+}
+
+.middle {
+    /* width: 100%; */
+    padding: 3rem 3rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    /* margin-bottom: 20rem; */
+    /* margin: 0 5rem; */
+
+}
+
+#man {
+    width: 30rem;
+    height: 30rem;
+    border: 1px solid white;
+    border-radius: 20px;
+    /* position: relative;
+    left:10rem ;
+    bottom: 30rem; */
+}
+
+
+
+.qoraal-2 {
+
+    display: flex;
+    flex-direction: column;
+    
+
+    width: 30rem;
+align-items: center;
+
+
+}
+
+.footer {
+    width: 100%;
+    height: 15%;
+    background-color: black;
+
+
+
+
+}
+
+.qoral-3 {
+    text-align: center;
+    color: #fff;
+    font-family: Arial;
+    font-weight: bold;
+    padding: 1.5rem;
+
+
+}
+.aaa{
+position: relative;
+left: -15rem;
+
+}
+.pe{
+    color:black;
+    font-family: Arial;
+    font-weight: bold;
+    padding-top: 0.75rem;
+
+}
+.ps{color:black;
+    font-family: Arial;
+    font-weight: lighter;
+padding-top: 2rem;
+
+}
+.pd{
+    color:black;
+    font-family: Arial;
+    font-weight: lighter;
+    padding-top: 2rem;
+}
+
+
+/* about */
